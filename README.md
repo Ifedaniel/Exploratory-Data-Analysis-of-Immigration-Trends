@@ -32,7 +32,10 @@ This exploratory data study provides significant insights into UK immigration tr
 REFERENCES
 ---
 [1]	L. Nevěděl and M. Novotná, "Immigration Into the United Kingdom," Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis, vol. 63, no. 3, pp. 957–967, 2015.
+
 [2]	S. Johnson and A. Brown, "Global Migration Patterns and Policy Implications," International Journal of Migration Studies, vol. 29, no. 2, pp. 45-64, 2023.
+
 [3]	L. Smith, "Migration Trends in the 21st Century: An Economic Perspective," Economic Journal of Development Issues, vol. 18, no. 1, pp. 33-49, 2022.
+
 [4]	R. Davis, "Exploratory Data Analysis: Techniques and Applications," Journal of Applied Statistics, vol. 39, no. 4, pp. 12-28, 2021.
 
